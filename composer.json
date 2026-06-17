@@ -1,0 +1,12 @@
+{
+    "name": "ruben/crudjwt",
+    "authors": [
+        {
+            "name": "Rubendg12002",
+            "email": "rebenenriquedg@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^7.1"
+    }
+}
